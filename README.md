@@ -21,6 +21,8 @@ Each file name ends with 3-letter (or 4-letter) code that has contains informati
 | `S`    | Size     | Small         |
 | `W`    | Color    | White         | 
 
+![colors](colors.png)
+
 # Customization
 If none of the files are meeting your needs, or you would just like to make your own version, please feel free to use the included `.svg` files. Using these, you can make edits to the geometry and  export a file of any size!
 
