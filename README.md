@@ -9,12 +9,12 @@ Please read the information below to get started. If you have any questions, don
 
 The branding assets are organized into the following directories:
 
-- **`1 - Logo Renders`**: Renders of the standalone propeller icon in various colorways, sizes, and formats, along with the master vector source (`Cyclone_Logo.svg`).
-- **`2 - Title Card Renders`**: Renders of the full team title card ("Cyclone RoboSub") in various colorways and sizes, along with the master vector source (`Cyclone_Title.svg`).
-- **`3 - Fonts`**: Official typography used across team branding (Righteous Regular).
-- **`4 - QR Codes`**: Official QR codes for team registration, social channels, and links.
-- **`5 - Video Thumbnails`**: Thumbnail graphics and vector assets for Give Day, crowdfunding, and video releases.
-- **`6 - Report Format`**: Official Typst report templates, styling, and documentation formats.
+- [**`1 - Logo Renders`**](1%20-%20Logo%20Renders/): Renders of the standalone propeller icon in various colorways, sizes, and formats, along with the master vector source ([`Cyclone_Logo.svg`](1%20-%20Logo%20Renders/Cyclone_Logo.svg)).
+- [**`2 - Title Card Renders`**](2%20-%20Title%20Card%20Renders/): Renders of the full team title card ("Cyclone RoboSub") in various colorways and sizes, along with the master vector source ([`Cyclone_Title.svg`](2%20-%20Title%20Card%20Renders/Cyclone_Title.svg)).
+- [**`3 - Fonts`**](3%20-%20Fonts/): Official typography used across team branding (Righteous Regular).
+- [**`4 - QR Codes`**](4%20-%20QR%20Codes/): Official QR codes for team registration, social channels, and links.
+- [**`5 - Video Thumbnails`**](5%20-%20Video%20Thumbnails/): Thumbnail graphics and vector assets for Give Day, crowdfunding, and video releases.
+- [**`6 - Report Format`**](6%20-%20Report%20Format/): Official Typst report templates, styling, and documentation formats.
 
 ---
 
@@ -103,29 +103,29 @@ If you are uploading the logo to a website or service, they will often specify t
 
 | File Name | Resolution | Description |
 | :--- | :--- | :--- |
-| `Cyclone_Logo_Color-on-Clear_Large.png` | 1024×1024 | Full color on transparent background |
-| `Cyclone_Logo_Color-on-Dark_Large.png` | 1024×1024 | Adjusted color on transparent background (for dark backgrounds) |
-| `Cyclone_Logo_Color-on-White_Medium.png` | 512×512 | Full color on solid white background |
-| `Cyclone_Logo_Color-on-White_Small.png` | 128×128 | Full color on solid white background |
-| `Cyclone_Logo_Color-on-White-Circle_Medium.png` | 512×512 | Full color on circular white cutout badge |
-| `Cyclone_Logo_Color-on-White-Circle.svg` | Vector | Circle cutout badge vector |
-| `Cyclone_Logo_White-on-Clear_Medium.png` | 512×512 | Monochrome white on transparent background |
-| `Cyclone_Logo_Black-on-White_Medium.png` | 512×512 | Monochrome black on solid white background |
-| `Cyclone_Logo.svg` | Vector | Master Inkscape vector source |
+| [`Cyclone_Logo_Color-on-Clear_Large.png`](1%20-%20Logo%20Renders/Cyclone_Logo_Color-on-Clear_Large.png) | 1024×1024 | Full color on transparent background |
+| [`Cyclone_Logo_Color-on-Dark_Large.png`](1%20-%20Logo%20Renders/Cyclone_Logo_Color-on-Dark_Large.png) | 1024×1024 | Adjusted color on transparent background (for dark backgrounds) |
+| [`Cyclone_Logo_Color-on-White_Medium.png`](1%20-%20Logo%20Renders/Cyclone_Logo_Color-on-White_Medium.png) | 512×512 | Full color on solid white background |
+| [`Cyclone_Logo_Color-on-White_Small.png`](1%20-%20Logo%20Renders/Cyclone_Logo_Color-on-White_Small.png) | 128×128 | Full color on solid white background |
+| [`Cyclone_Logo_Color-on-White-Circle_Medium.png`](1%20-%20Logo%20Renders/Cyclone_Logo_Color-on-White-Circle_Medium.png) | 512×512 | Full color on circular white cutout badge |
+| [`Cyclone_Logo_Color-on-White-Circle.svg`](1%20-%20Logo%20Renders/Cyclone_Logo_Color-on-White-Circle.svg) | Vector | Circle cutout badge vector |
+| [`Cyclone_Logo_White-on-Clear_Medium.png`](1%20-%20Logo%20Renders/Cyclone_Logo_White-on-Clear_Medium.png) | 512×512 | Monochrome white on transparent background |
+| [`Cyclone_Logo_Black-on-White_Medium.png`](1%20-%20Logo%20Renders/Cyclone_Logo_Black-on-White_Medium.png) | 512×512 | Monochrome black on solid white background |
+| [`Cyclone_Logo.svg`](1%20-%20Logo%20Renders/Cyclone_Logo.svg) | Vector | Master Inkscape vector source |
 
 ### `2 - Title Card Renders` (Full Team Title)
 
 | File Name | Resolution | Description |
 | :--- | :--- | :--- |
-| `Cyclone_Title_Color-on-Clear_Large.png` | 2048×1024 | Full color on transparent background |
-| `Cyclone_Title_Color-on-Clear_Medium.png` | 1024×512 | Full color on transparent background |
-| `Cyclone_Title_Color-on-Dark_Medium.png` | 1024×512 | Adjusted color/white on transparent background (for dark backgrounds) |
-| `Cyclone_Title_Color-on-White_Large.png` | 2048×1024 | Full color on solid white background |
-| `Cyclone_Title_Color-on-White_Medium.png` | 1024×512 | Full color on solid white background |
-| `Cyclone_Title_Color-on-White_Desktop.png` | 3840×2160 | 4K 16:9 desktop format on solid white background |
-| `Cyclone_Title_Black-on-White_Large.png` | 2048×1024 | Monochrome black on solid white background |
-| `Cyclone_Title_Newsletter_Color-on-White_Large.png` | 2048×1024 | Newsletter edition title card on solid white background |
-| `Cyclone_Title.svg` | Vector | Master Inkscape vector source |
+| [`Cyclone_Title_Color-on-Clear_Large.png`](2%20-%20Title%20Card%20Renders/Cyclone_Title_Color-on-Clear_Large.png) | 2048×1024 | Full color on transparent background |
+| [`Cyclone_Title_Color-on-Clear_Medium.png`](2%20-%20Title%20Card%20Renders/Cyclone_Title_Color-on-Clear_Medium.png) | 1024×512 | Full color on transparent background |
+| [`Cyclone_Title_Color-on-Dark_Medium.png`](2%20-%20Title%20Card%20Renders/Cyclone_Title_Color-on-Dark_Medium.png) | 1024×512 | Adjusted color/white on transparent background (for dark backgrounds) |
+| [`Cyclone_Title_Color-on-White_Large.png`](2%20-%20Title%20Card%20Renders/Cyclone_Title_Color-on-White_Large.png) | 2048×1024 | Full color on solid white background |
+| [`Cyclone_Title_Color-on-White_Medium.png`](2%20-%20Title%20Card%20Renders/Cyclone_Title_Color-on-White_Medium.png) | 1024×512 | Full color on solid white background |
+| [`Cyclone_Title_Color-on-White_Desktop.png`](2%20-%20Title%20Card%20Renders/Cyclone_Title_Color-on-White_Desktop.png) | 3840×2160 | 4K 16:9 desktop format on solid white background |
+| [`Cyclone_Title_Black-on-White_Large.png`](2%20-%20Title%20Card%20Renders/Cyclone_Title_Black-on-White_Large.png) | 2048×1024 | Monochrome black on solid white background |
+| [`Cyclone_Title_Newsletter_Color-on-White_Large.png`](2%20-%20Title%20Card%20Renders/Cyclone_Title_Newsletter_Color-on-White_Large.png) | 2048×1024 | Newsletter edition title card on solid white background |
+| [`Cyclone_Title.svg`](2%20-%20Title%20Card%20Renders/Cyclone_Title.svg) | Vector | Master Inkscape vector source |
 
 ---
 
@@ -147,8 +147,8 @@ If you are uploading the logo to a website or service, they will often specify t
 # Customization
 
 If none of the pre-rendered files meet your needs or you would like to generate custom dimensions or colorways, please feel free to use the included `.svg` vector files:
-- `1 - Logo Renders/Cyclone_Logo.svg`
-- `2 - Title Card Renders/Cyclone_Title.svg`
+- [`1 - Logo Renders/Cyclone_Logo.svg`](1%20-%20Logo%20Renders/Cyclone_Logo.svg)
+- [`2 - Title Card Renders/Cyclone_Title.svg`](2%20-%20Title%20Card%20Renders/Cyclone_Title.svg)
 
 Using these files, you can edit geometries, adjust layers, and export high-resolution assets at any size.
 
