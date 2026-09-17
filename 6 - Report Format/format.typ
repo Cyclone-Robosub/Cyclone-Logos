@@ -3,7 +3,7 @@
     subtitle: "", 
     date: none,
     org: "Cyclone RoboSub @ UC Davis", 
-    logo: "Cyclone Propeller Logo CWRK.svg", 
+    logo: "Cyclone_Logo_Color-on-White-Circle.svg", 
     body
   ) = {
 
